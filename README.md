@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/ZassTdr/Utama/main/install.sh)
+https://raw.githubusercontent.com/ZaaXxyZzModDev/Utama/main/install.sh)
 ```
 
 Screenshots:
