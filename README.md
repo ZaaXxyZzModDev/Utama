@@ -1,4 +1,4 @@
-# MinecraftPurpleTheme
+# Theme-pterodactyl
 
 Install script:
 ```sh
@@ -10,3 +10,6 @@ Screenshots:
 ![Main panel screenshot](https://media.discordapp.net/attachments/920581510510297169/1001607296746528778/Captura_de_pantalla_2022-07-26_215606.png "Main panel screenshot")
 # Instalation Script
 ![Instalation script](https://i.imgur.com/8hFZG5b.png "Instalation script")
+
+Subscribe YouTube ZaaXxyZzModDev
+Link : https://youtube.com/@ZaaXxyZzModDev
